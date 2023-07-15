@@ -20,6 +20,13 @@
       "author": "Denis",
       "id": "3",
       "likes": 116
+    },
+    {
+      "title": "Mon poste du jour",
+      "content": "Satut moi c'est mohamed sarifou Bakeliste en programmation web et mobile",
+      "author": "Mohamed Diallo",
+      "id": "WXCceG-",
+      "likes": 2
     }
   ],
   "user": [
@@ -27,7 +34,7 @@
       "pseudo": "Mohamed Diallo",
       "id": 1,
       "age": 25,
-      "likes": 31
+      "likes": 33
     }
   ]
 }
