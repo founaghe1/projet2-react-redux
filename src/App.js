@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Extreme</h1>
+      <h1>Extreme Poste</h1>
       <PostForm />
       <div className="content">
         <div className="post-container">
